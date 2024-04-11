@@ -43,4 +43,4 @@ style="border-radius: 4px"</a>
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b6fcd5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
